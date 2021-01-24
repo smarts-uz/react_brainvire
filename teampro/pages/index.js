@@ -1,11 +1,11 @@
 import UI from "../components/ui/UI";
-import Scheadule from "../components/Scheadule"
+import Info from "../components/Tabs"
 
 export default function Home() {
   return (
     <>
     <UI>
-      <Scheadule/>
+      <Info/>
     </UI>
     </>
   )

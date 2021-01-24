@@ -29,7 +29,7 @@ const data = [
 
 export default function Scheadule(){
     return(
-        <div className="m-10 shadow-lg border border-black rounded-lg w-full lg:w-3/5 py-4 px-10">
+        <div className="shadow-lg rounded-lg w-full lg:w-3/5 py-4 px-10">
             <h1 className="text-center md:text-left text-3xl font-bold">Schedule a Consultation</h1>
             <form className="grid md:flex md:flex-wrap md:flex-row">
                 <div className="grid md:w-1/2 w-full py-5 px-2">
